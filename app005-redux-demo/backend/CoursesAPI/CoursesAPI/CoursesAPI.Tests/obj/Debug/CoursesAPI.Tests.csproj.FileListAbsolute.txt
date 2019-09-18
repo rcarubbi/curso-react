@@ -1,0 +1,11 @@
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\bin\Debug\CoursesAPI.Tests.dll
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\bin\Debug\CoursesAPI.Tests.pdb
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\bin\Debug\CoursesAPI.Domain.dll
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\bin\Debug\nunit.framework.dll
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\bin\Debug\CoursesAPI.Domain.pdb
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\bin\Debug\nunit.framework.xml
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.dll
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.pdb

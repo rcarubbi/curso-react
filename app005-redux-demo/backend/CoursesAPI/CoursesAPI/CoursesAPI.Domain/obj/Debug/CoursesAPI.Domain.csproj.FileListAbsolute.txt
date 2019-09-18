@@ -1,0 +1,6 @@
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Domain\bin\Debug\CoursesAPI.Domain.dll
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Domain\bin\Debug\CoursesAPI.Domain.pdb
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Domain\obj\Debug\CoursesAPI.Domain.csprojResolveAssemblyReference.cache
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Domain\obj\Debug\CoursesAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Domain\obj\Debug\CoursesAPI.Domain.dll
+C:\Users\rcaru\projects\curso-react\app005-redux-demo\backend\CoursesAPI\CoursesAPI\CoursesAPI.Domain\obj\Debug\CoursesAPI.Domain.pdb
