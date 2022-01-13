@@ -20,7 +20,7 @@
     "jquery": "^3.5.0",
     "lodash": "^4.17.5",
     "object-assign": "^3.0.0",
-    "react": "^0.13.3",
+    "react": "^0.14.0",
     "react-router": "^0.13.6",
     "reactify": "^1.1.1",
     "toastr": "^2.1.0",
